@@ -119,8 +119,8 @@ function init(){
      bonus= new Map(bonusarr);
   }
   function startGame(data){
-    moveSound = new sound("moveSound.wav");
-    captureSound= new sound("captureSound.wav");
+    moveSound = new sound("./asssets/moveSound.wav");
+    captureSound= new sound("./assets/captureSound.wav");
     side= data.data
     playerSide= (side)?'w':'b'
     let toRemove= document.querySelector("#choice");
