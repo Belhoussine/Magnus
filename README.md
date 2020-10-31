@@ -1,6 +1,6 @@
 # Chess-AI-Engine
 - This is a web application that creates a chess game and then lets the user play against an intelligent engine.
-![Chess Engine] (./chess.png)
+![Chess Engine](./assets/chess.png)
 - Lots of game theory and A.I research were behind the implementation of the engine, namely the Minimax Algorithm, Alpha-beta pruning, and chess opening / end-game theory.
 
 ## 1. Chess Game:
